@@ -1,0 +1,11 @@
+
+[package]
+name = "algo"
+version = "0.1.0"
+edition = "2021"
+
+
+[[bin]]
+name = "2086"
+path = "src/main.rs"
+
