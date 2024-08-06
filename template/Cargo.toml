@@ -9,3 +9,5 @@ edition = "2021"
 name = "template"
 path = "src/main.rs"
 
+# NOTE: RUN :
+# cargo run < test_input.txt

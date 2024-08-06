@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "template"
+name = "algo_1002"
 version = "0.1.0"
