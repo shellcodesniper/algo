@@ -1,0 +1,22 @@
+
+[package]
+name = "algo_27323"
+version = "0.1.0"
+edition = "2021"
+
+
+[[bin]]
+name = "algo_27323"
+path = "src/main.rs"
+
+# NOTE: RUN :
+# cargo run < test_input.txt
+
+[profile.dev]
+panic = "abort"
+
+[profile.release]
+panic = "abort"
+
+[profile.test]
+panic = "abort"

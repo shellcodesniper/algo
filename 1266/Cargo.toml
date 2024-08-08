@@ -1,0 +1,13 @@
+
+[package]
+name = "algo_1266"
+version = "0.1.0"
+edition = "2021"
+
+
+[[bin]]
+name = "algo_1266"
+path = "src/main.rs"
+
+# NOTE: RUN :
+# cargo run < test_input.txt
